@@ -15,7 +15,6 @@ This project is an E-Commerce API built using Node.js, Express, and MongoDB. It 
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
 - [Assumptions](#assumptions)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Prerequisites
@@ -59,9 +58,6 @@ This project is an E-Commerce API built using Node.js, Express, and MongoDB. It 
 ## Usage
 
 ### Interacting with the API
-
-- The API documentation is available at `http://localhost:3000/api-docs` (using Swagger UI or equivalent).
-- Use tools like Postman to test the API endpoints.
 
 ### Sample Requests
 
