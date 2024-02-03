@@ -59,6 +59,8 @@ This project is an E-Commerce API built using Node.js, Express, and MongoDB. It 
 
 ### Interacting with the API
 
+https://app.swaggerhub.com/apis/RUMAANKHAN48/e-commerce_api/1.0.0
+
 ### Sample Requests
 
 1. **Create a Product:**
