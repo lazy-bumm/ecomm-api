@@ -1,4 +1,4 @@
-Certainly! Below is an example of a README file containing documentation for an E-Commerce API. Please customize it according to your specific project details.
+Certainly! Below is an example of a README file containing documentation for an E-Commerce api
 
 ```markdown
 # E-Commerce API
